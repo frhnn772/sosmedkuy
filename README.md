@@ -1,0 +1,2 @@
+# sosmed
+iseng bangg
