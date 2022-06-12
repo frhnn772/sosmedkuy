@@ -1,2 +1,3 @@
 # sosmed
-iseng bangg
+username = frhn
+password = 123
