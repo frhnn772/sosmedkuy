@@ -6,16 +6,10 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.98.0">
-    <title>Offcanvas navbar template · Bootstrap v5.2</title>
-
+    <title>sosmed :v</title>
+    <link rel="icon" type="image/x-icon" href="styles/medsos.ico">
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/offcanvas-navbar/">
-    
-
-    
-
-    
-
-<link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {

@@ -1,7 +1,7 @@
 <?php
 
-// $conn = new mysqli("localhost", "root", "root", "sosmed");
-$conn = new mysqli("remotemysql.com", "oCSPpndUW6", "m0K4whSwpz", "oCSPpndUW6");
+$conn = new mysqli("localhost", "root", "", "sosmed");
+// $conn = new mysqli("	sql107.epizy.com", "epiz_31832946", "cChjiF17n0iZ", "epiz_31832946_XXX");
 
 // check connection
 if($conn -> connect_errno) {
